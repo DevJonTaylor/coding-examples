@@ -10,3 +10,8 @@ like checking version hashes for updates, health checks, unit testing, etc.
 This script was one of my very first.  I created it because I was only able to have one virtual machine on 
 my computer.  So I was removing the server and then re-installing it to have different mock server for testing concepts.
 This was all before I discovered docker and kubernetes.
+
+## MySQL
+
+### [import.sql](sql/import.sql)
+An example of how to import a file using the command line.
